@@ -1,0 +1,10 @@
+What are some common attributes you’d use on the following HTML elements:
+<img/> -src, sizes
+
+<a>link</a> -href, type
+
+<form></form> -target, action
+
+<script></script> -charset, onload
+
+<input> -accept, alt
